@@ -162,3 +162,7 @@ Runs ESLint across the project.
 ## License
 
 This project is open source and available for use under the repository's license terms.
+
+---
+
+**Built by [Girish Lade](https://ladestack.in)** — Founder of [LadeStack](https://ladestack.in)
